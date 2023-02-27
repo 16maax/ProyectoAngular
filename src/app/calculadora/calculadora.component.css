@@ -1,0 +1,84 @@
+h1{
+    font-family: 'Varela Round', sans-serif;
+    color: white;
+    right: -10px;
+    position: relative;
+    top: -160px;
+}
+input{
+    position: relative;
+    top: -150px;
+    right: -15px;
+}
+.m1{
+    position: relative;
+    top: 10px;
+}
+.m2{
+    position: relative;
+    top: -11px;
+    right: -25px;
+}
+.m3{
+    position: relative;
+    top: -32px;
+    right: -50px;
+}
+.m4{
+    position: relative;
+    top: -53px;
+    right: -75px;
+}
+.m5{
+    position: relative;
+    top: -74px;
+    right: -100px;
+}
+.m6{
+    position: relative;
+    top: -70px;
+}
+.m7{
+    position: relative;
+    top: -91px;
+    right: -25px;
+}
+.m8{
+    position: relative;
+    top: -112px;
+    right: -50px;
+}
+.m9{
+    position: relative;
+    top: -133px;
+    right: -75px;
+}
+.m0{
+    position: relative;
+    top: -154px;
+    right: -100px;
+}
+.mas{
+    position: relative;
+    top: -149px;
+    right: -100px;
+}
+.menos{
+    position: relative;
+    top: -170px;
+    right: -75px;
+}
+.por{
+    position: relative;
+    top: -191px;
+    right: -50px;
+}
+.entre{
+    position: relative;
+    top: -212px;
+    right: -25px;
+}
+.igual{
+    position: relative;
+    top: -233px;
+}
